@@ -1,4 +1,6 @@
 #include "stdio.h"
+void address(int , int );
+//nice to meet you 
 void add(int a , int b)
 {
     a++; 
