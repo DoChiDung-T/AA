@@ -1,4 +1,5 @@
 #include "stdio.h"
+void add1(int a, int b);
 void add(int a , int b)
 {
     a++; 
